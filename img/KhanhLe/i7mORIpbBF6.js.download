@@ -1,0 +1,4 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["mGgMy"]); }
+
+__d("AdsIntegrityActionType",[],(function(a,b,c,d,e,f){e.exports=Object.freeze({DISAPPROVAL_REASONS_LOADED:"ADS_INTEGRITY_DISAPPROVAL_REASONS_LOADED",COMP_DISAPPROVAL_REASONS_LOADED:"ADS_INTEGRITY_COMP_DISAPPROVAL_REASONS_LOADED"})}),null);
+__d("InstantNativeGames",[],(function(a,b,c,d,e,f){e.exports=Object.freeze({SOCCER:1858843294435923,BASKETBALL:1555255427859932})}),null);
